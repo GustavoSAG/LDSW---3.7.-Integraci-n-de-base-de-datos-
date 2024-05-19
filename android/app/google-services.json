@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999935902975",
+    "project_id": "lsdw-u3a7",
+    "storage_bucket": "lsdw-u3a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999935902975:android:35d751fcce520fda4b38ca",
+        "android_client_info": {
+          "package_name": "com.example.ldsw_peticiones_http"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqvrviXmPCr9IzL577XVKYl7Nu678m7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
